@@ -3,7 +3,7 @@ name: Public Repo Sync
 # Triggers the workflow on push to the release branch
 on:
   push:
-    branches: [ release ]
+    branches: [ main ]
 
 # Job run
 jobs:
